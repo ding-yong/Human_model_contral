@@ -1,0 +1,2 @@
+# Human_model_contral
+使用深度学习模型和线性模型将传感器接收到的数据处理并控制Unity人物
